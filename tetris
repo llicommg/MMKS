@@ -547,7 +547,7 @@ rotate()
    var audio = new Audio('notettrismusic.mp3')
  function tocart(){
 
-   //      var audio = new Audio('https://makemykidsmarter.com/wp-content/uploads/2023/03/notettris-music.mp3');
+   //      var audio = new Audio('aqui iba la cancioncita');
     audio.play();   
 }       
  function tocarp(){
@@ -556,7 +556,7 @@ rotate()
 }       
 
 function reghome() {
-  location.replace("https://makemykidsmarter.com/?page_id=50")
+  location.replace("https://makemykidsmarter.com/ aquise iba a la pagina principal")
 }
 
 
